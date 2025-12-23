@@ -169,17 +169,7 @@ assaignment-3/
 | **ERD Diagram**       | [ERD Link][erd]       |
 | **Viva Video**        | [Viva Video][viva]    |
 
-[github]: https://github.com/monir6163/assaignment-3
-[erd]: https://lucid.app/lucidchart/84be5669-16a7-4e40-b426-820fa537741f/edit?viewport_loc=-951%2C-406%2C1995%2C844%2C0_0&invitationId=inv_b0c16ffa-cdd3-41f3-a5fd-fa4e3c026ffd
-[viva]: https://drive.google.com/drive/folders/
+[github]: https://github.com/mdrasel97/b6a3-Vehicle-Rental-System
+[erd]: https://lucid.app/lucidchart/961ec564-6ab1-47ce-a352-8b21105310f2/edit?viewport_loc=-271%2C-881%2C5024%2C2068%2C0_0&invitationId=inv_0cd22a11-65bd-44f8-a40f-30e8f13366b1
 
----
-
-## 👤 Author
-
-- **Monir Hossain**
-- Email: monirhossain6163@gmail.com
-- GitHub: [monir6163](https://github.com/monir6163)
-- LinkedIn: [Monir Hossain](https://www.linkedin.com/in/monirweb/)
-
----
+[viva]:
