@@ -1,0 +1,1 @@
+create database vehicle_rental_system
